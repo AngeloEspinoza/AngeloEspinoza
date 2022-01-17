@@ -4,8 +4,11 @@ I'm a grad student at CIMAT, Computational Robotics Engineer, and robotics enthu
 Robotics, Computer Vision, and Machine Learning. I'm always willing to learn something new and opened to be taught. I firmly believe that thoughts 
 are like a toolbox and every time you learn something new you have a new tool to build something better.
 
+<!-- .gif at the right of "Things I'm currently working on" -->
+<img align="right" height="250" width="375" alt="" src="/assets/spot2.gif" />
+
 ### Things I'm currently working on:
-- 🤖 &nbsp; Improve my knowledge in ROS.
+- 🤖 &nbsp; Improve my knowledge in ROS. 
 - 🎓 &nbsp; Finish my master's degree in robotics. 
 - 💻 &nbsp; Learning robotics and more about C++20.
 - 👨🏻‍💻 &nbsp; Learning about algorithms and data structures.
