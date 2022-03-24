@@ -1,7 +1,7 @@
 ## Hi <img src="/assets/hi.gif" width="29px">, I'm Angelo
 
-I'm a grad student at CIMAT, Computational Robotics Engineer, and robotics enthusiast.  I like to give "life" to machines, anything related to: 
-Robotics, Computer Vision, and Machine Learning. I'm always willing to learn something new and opened to be taught. I firmly believe that thoughts 
+I'm a grad student at CIMAT, Computational Robotics Engineer, and a robotics enthusiast.  I like to give "life" to machines, anything related to 
+Robotics, Computer Vision, and Machine Learning. I'm always willing to learn something new and open to be taught. I firmly believe that thoughts 
 are like a toolbox and every time you learn something new you have a new tool to build something better.
 
 <!-- .gif at the right of "Things I'm currently working on" -->
